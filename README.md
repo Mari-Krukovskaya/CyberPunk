@@ -1,4 +1,4 @@
 ## Description:
- Адаптивная вёрстка по макету Figma
+Вёрстка сайта 
 
 [Website](https://mari-krukovskaya.github.io/CyberPunk/ "CyberPunk")
